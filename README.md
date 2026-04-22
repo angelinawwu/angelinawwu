@@ -1,4 +1,7 @@
-![Black running dog](https://webpets-flame.vercel.app/generated/dog/black_run_8fps.gif)
+![Black walking dog](https://webpets-flame.vercel.app/generated/dog/black_walk_8fps.gif)
+![Walking dino](https://webpets-flame.vercel.app/generated/deno/green_walk_8fps.gif)
+![Snail](https://webpets-flame.vercel.app/generated/snail/brown_walk_8fps.gif)
+
 
 <!--
 **angelinawwu/angelinawwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
