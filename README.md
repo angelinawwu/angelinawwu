@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Black running dog](https://webpets-flame.vercel.app/generated/dog/black_run_8fps.gif)
 
 <!--
